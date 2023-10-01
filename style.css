@@ -1,0 +1,182 @@
+.container{
+    height: 50px;
+}
+.navbar{
+    height: 50px;
+    border-radius: 50px;
+    background-color: #e8e5e480;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 400px;
+    position: fixed;
+}
+.home{
+    height: 30px;
+    border-radius: 40px;
+    background-color: white;
+    width: 60px;
+    text-align: center;
+}
+.frame{
+    height: 325.5px;
+    padding: 40px;
+    width: 1098px;
+    margin-left: 100px;
+}
+.content{
+    height: 250px;
+    margin-left: 230px;
+    width: 600px;
+    font-size: 30px;
+    text-align: center;
+}
+.add-first{
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    margin-left: 200px;
+}
+.add1{
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #e8e5e480;
+}
+.add2{
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #e8e5e480;
+}
+.add3{
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #e8e5e480;
+}
+
+.add4{
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #e8e5e480;
+}
+.brand-section1{
+    height: 425px;
+    display: flex;
+}
+.box1{
+    background-image: url("https://worldbranddesign.com/wp-content/uploads/2020/03/1-Aire-Model-005.jpg");
+    height: 420px;
+    width: 450px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+}
+
+.box2{
+    background-image: url("https://fluentcommerce.com/wp-content/uploads/fluent-store-blog.png.webp");
+    height: 420px;
+    width: 650px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+    margin-left: 40px;
+}
+.brand-section2{
+    height: 425px;
+    display: flex;
+    margin-top: 50px;
+}
+.box3{
+    background-image: url("https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3A58486136-5e1d-441c-9a07-0088dba0b3f5?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1");
+    height: 420px;
+    width: 500px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+    margin-left: 8px;
+}
+.box4{
+    background-image: url("https://i.ebayimg.com/images/g/tBkAAOSwOxtiNSiS/s-l1600.jpg");
+    height: 420px;
+    width: 600px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+    margin-left: 40px;
+}
+.brand-section3{
+    height: 425px;
+    display: flex;
+    margin-top: 50px;
+}
+.box5{
+    background-image: url("https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3A58486136-5e1d-441c-9a07-0088dba0b3f5?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"); 
+    height: 420px;
+    width: 500px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+    margin-left: 8px;
+}
+.box6{
+    background-image:url("https://i.ebayimg.com/images/g/tBkAAOSwOxtiNSiS/s-l1600.jpg"); ;
+    height: 420px;
+    width: 600px;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px 40px 0px;
+    margin-left: 40px;
+}
+.source-section{
+    height: 195px;
+    width: 1098px;
+    margin-top: 50px;
+    text-align: center;
+}
+.source1{
+    height: 91px;
+    width: 1018px;
+}
+#section1{
+    font-size: 38px;
+}
+#section2{
+    margin-top: 5px;
+    font-size: 38px;
+    color:#7f7f7f ;
+}
+#section2:hover  {
+    color: #96858080;
+}
+.address{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.social media1{
+    font-size: 14px;
+    height: 17px;
+    width: 41px;
+    background-color: black;
+    justify-content: center;
+
+
+}
+.social media2{
+    font-size: 14px;
+    height: 17px;
+    width: 41px;
+}
+.social media3{
+    font-size: 14px;
+    height: 17px;
+    width: 41px;
+}
+.social media4{
+    font-size: 14px;
+    height: 17px;
+    width: 41px;
+    padding-left: 700px;
+    justify-content: flex-end;
+}
+
